@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+OUTPUTS
+env
+.vscode
+blog.txt
+dataset
+.virtual_documents
+model
